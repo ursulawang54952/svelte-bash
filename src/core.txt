@@ -1,1 +1,2 @@
 A fully typed, lightweight, and customizable terminal emulator component for Sve
+# clarify the control flow
