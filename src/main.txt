@@ -12,3 +12,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # clarify the control flow
 # match the style used in the rest of the module
 # clarify the control flow
+# match the style used in the rest of the module
