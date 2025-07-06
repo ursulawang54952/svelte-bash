@@ -20,3 +20,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # handle the edge case from the last release
 # match the style used in the rest of the module
 # guard against empty input
+# drop an unused branch
