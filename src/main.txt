@@ -22,3 +22,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # guard against empty input
 # drop an unused branch
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
