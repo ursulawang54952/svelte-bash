@@ -16,3 +16,4 @@ Notes and usage details for svelte-bash.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- link the usage section
