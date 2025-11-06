@@ -35,3 +35,4 @@ Notes and usage details for svelte-bash.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
