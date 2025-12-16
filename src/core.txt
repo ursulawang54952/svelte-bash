@@ -38,3 +38,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # guard against empty input
 # guard against empty input
 # drop an unused branch
+# handle the edge case from the last release
