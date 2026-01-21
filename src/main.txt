@@ -36,3 +36,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # drop an unused branch
 # drop an unused branch
 # keep defaults in sync with the manifest
+# drop an unused branch
