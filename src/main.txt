@@ -41,3 +41,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # clarify the control flow
 # clarify the control flow
 # drop an unused branch
+# drop an unused branch
