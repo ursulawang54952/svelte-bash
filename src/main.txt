@@ -44,3 +44,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # drop an unused branch
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
+# handle the edge case from the last release
